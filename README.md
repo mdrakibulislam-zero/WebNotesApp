@@ -1,5 +1,5 @@
 ## Web Notes App:
-This is a simple note taking app based on Web which made with HTML, CSS and JavaScript. It's able to save your notes in your local storage.
+This is a simple note taking app based on Web which made with HTML, CSS and JavaScript. It's able to save notes in browsers.
 
 
 ## Outcome:
@@ -9,9 +9,13 @@ src="https://github.com/mdrakibulislam-zero/WebNotesApp/blob/main/Outcome.png" /
 
 
 ## What Have I Done:
-I've made this notes app using HTML, CSS and JavaScript. I've used marked-1.2.2.js for made this project.
+I've made this notes app using HTML, CSS and JavaScript. I've used marked-1.2.2.js for made this project. I've also used the CDN of font-awesome 5.15.4 from CDNJS for use the icons.
 
 Marked js is a low-level markdown compiler for parsing markdown without caching or blocking for long periods of time. It is available as a command line interface and running in client-side or server-side JavaScript projects.
+
+A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.
+
+Font Awesome is a font and icon toolkit based on CSS and Less. As of 2020, Font Awesome was used by 38% of sites that use third-party font scripts, placing Font Awesome in second place after Google Fonts.
 
 
 ## Required Skills:
